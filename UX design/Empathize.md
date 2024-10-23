@@ -4,7 +4,6 @@ Snažíme se zjistit:
 	Co je problém
 	Proč je to problém
 	Jaké mají uživatelé emoce, motivace, potřeby atd....
-
 Affinity mapa
 Malý výzkum je mnohem lepší než žádný
 Stakeholdeři + data + ostatní výzkumy => Hypotéza

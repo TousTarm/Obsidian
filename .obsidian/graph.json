@@ -5,18 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Matematika  ",
+      "color": {
+        "a": 1,
+        "rgb": 15010571
+      }
+    },
+    {
+      "query": "path:Právo  ",
+      "color": {
+        "a": 1,
+        "rgb": 13668107
+      }
+    },
+    {
+      "query": "path:\"UX design\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Základy marketingu\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 47815
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "showArrow": true,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 1.49088541666667,
+  "lineSizeMultiplier": 1.43984375,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "centerStrength": 0.419270833333333,
+  "repelStrength": 5.78125,
+  "linkStrength": 0.3828125,
+  "linkDistance": 171,
+  "scale": 0.7132754626224425,
   "close": true
 }
