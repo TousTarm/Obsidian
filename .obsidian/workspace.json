@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Právo/new/2 - Právní normy a Osoby v právním smyslu.md",
+                "file": "Právo/new/3 - Právní skutečnosti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Právní normy a Osoby v právním smyslu"
+              "title": "3 - Právní skutečnosti"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "24b7af4bc3a1d084",
   "lastOpenFiles": [
-    "Právo/Prezentace/2PR101_ZS2024_01_Pravo_a_pravni_system.pdf",
     "Právo/new/2 - Právní normy a Osoby v právním smyslu.md",
+    "Právo/new/1 - Právo a právní systém.md",
+    "Právo/new/3 - Právní skutečnosti.md",
+    "absolutně.md",
+    "Právo/Prezentace/2PR101_ZS2024_01_Pravo_a_pravni_system.pdf",
     "Právo/Prezentace/2PR101_ZS2024_03_Pravni_skutecnosti.pdf",
     "UX design/Empathize.md",
     "README.md",
@@ -211,7 +214,6 @@
     "ZZZ Obsidian/Linky.md",
     "ZZZ Obsidian",
     "Matematika/A Info.md",
-    "Právo/new/1 - Právo a právní systém.md",
     "2PR101_ZS2024_02_Pravo_a_pravni_system.pdf.md",
     "2PR101_ZS2024_02_Pravni_normy_Osoby.md",
     "Právo/Prezentace/2PR101_ZS2024_02_Pravni_normy_Osoby.pdf",
@@ -235,7 +237,6 @@
     "Právo/old",
     "Právo/old/Prameny práva Evropské unie.md",
     "Právo/old/20240918_154654.jpg",
-    "Právo/old/Právní skutečnosti.md",
     "Angličtina"
   ]
 }

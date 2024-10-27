@@ -78,7 +78,7 @@ občanský soudní řád
 **soudní moc** - Soudní soustava + Ústavní soud
 **moc kontrolní** - Nejvyšší kontrolní úřad
 **moc bankovní** - ČNB
-**Detaily pro dělbu moci jsou v prezentaci [1. Prezentace](2PR101_ZS2024_01_Pravo_a_pravni_system.pdf) na slidech 4-12
+**Detaily pro dělbu moci jsou v prezentaci [1. Prezentace](2PR101_ZS2024_01_Pravo_a_pravni_system.pdf) na slidech 24-72
 #### Zákonná opatření
 Přijimá **pouze Senát** (navrhuje pouze **vláda**)
 **Podmínky:**
