@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9587604292d42a4f",
+        "id": "9073513895d73463",
         "type": "tabs",
         "children": [
           {
-            "id": "7c672ba8a265aa8d",
+            "id": "24b7af4bc3a1d084",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX design/Empathize.md",
+                "file": "Právo/new/2 - Právní normy a Osoby v právním smyslu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Empathize"
+              "title": "2 - Právní normy a Osoby v právním smyslu"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 459.5
   },
   "right": {
     "id": "69a29218300f8ce2",
@@ -195,8 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c672ba8a265aa8d",
+  "active": "24b7af4bc3a1d084",
   "lastOpenFiles": [
+    "Právo/Prezentace/2PR101_ZS2024_01_Pravo_a_pravni_system.pdf",
+    "Právo/new/2 - Právní normy a Osoby v právním smyslu.md",
+    "Právo/Prezentace/2PR101_ZS2024_03_Pravni_skutecnosti.pdf",
+    "UX design/Empathize.md",
+    "README.md",
     "UX design/Design.md",
     "UX design/Define.md",
     "UX design/A Info.md",
@@ -206,17 +211,13 @@
     "ZZZ Obsidian/Linky.md",
     "ZZZ Obsidian",
     "Matematika/A Info.md",
-    "Právo/new/2 - Právní normy a Osoby v právním smyslu.md",
     "Právo/new/1 - Právo a právní systém.md",
     "2PR101_ZS2024_02_Pravo_a_pravni_system.pdf.md",
     "2PR101_ZS2024_02_Pravni_normy_Osoby.md",
     "Právo/Prezentace/2PR101_ZS2024_02_Pravni_normy_Osoby.pdf",
-    "Právo/Prezentace/2PR101_ZS2024_01_Pravo_a_pravni_system.pdf",
     "().md",
     "Matematika/Výroková logika.md",
     "Matematika/Obory čísel.md",
-    "Právo/Prezentace/2PR101_ZS2024_03_Pravni_skutecnosti.pdf",
-    "UX design/Empathize.md",
     "Základy marketingu/Porterův model konkurenčních sil.md",
     "Základy marketingu/Marketingové prostředí.md",
     "Základy marketingu/Lenor vonné svíčky.md",
@@ -235,7 +236,6 @@
     "Právo/old/Prameny práva Evropské unie.md",
     "Právo/old/20240918_154654.jpg",
     "Právo/old/Právní skutečnosti.md",
-    "Právo/old/Právní normy.md",
     "Angličtina"
   ]
 }

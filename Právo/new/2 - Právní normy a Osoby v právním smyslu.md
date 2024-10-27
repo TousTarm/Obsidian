@@ -84,4 +84,56 @@ stanový opatrovníka
 
 **!!!Korporace** vs **Fundace!!!**
 členi korporace vlastní svou odpovídající část majetku, fundace nemají rozdělený majetek
-# Skončil jsem na 6slidu/3postu
+##### Ustavení a vznik právnických osob
+1) Zakladatelským pravním jednáním - smlouva (název, sídlo, předmět činosti)
+2) Zákonem - zákon všechno nastavuje
+3) Rozhodnutím orgánu veřejné moci (OMV)
+4) Jiným způsobem - vyjímky
+**Vznik** - zápis do veřejného rejstříku
+##### Neplatnost právnické osoby
+po vzniku právnické osoby se nelze domáhat určení, že nevznikla,
+a nelze z toho důvodu zrušit její zápis do veřejného rejstříku
+**Soud prohlásí PO po jejím vzniku za neplatnou, pokud:**
+1) chybí zakladatelsé právní jednání - chybí například zakladatelská smlouva
+2) zakladatelské právní jednaní nemá náležitost nezbytnou pro právní existenci právnické osoby - chybí název, sídlo atd...
+3) právní jednání zakladatelů odporuje § 145 ObčZ - rozpor se zákonem
+4) nedostatečný počet zakladatelů
+##### Zakladatelské právní jednání
+**Formální akt**:
+zakladatelské právní jednání musí mít písemnou formu. Bez písemného dokladu není právnická osoba považována za založenou.
+**Název právnické osoby**:
+zakladatelé musí vybrat a uvést název nové právnické osoby. Tento název musí být jedinečný a nesmí být zaměnitelný s jinými existujícími právnickými osobami.
+**Sídlo**:
+musí být uvedeno sídlo právnické osoby, což je místo, kde se právnická osoba nachází a kde bude vykonávat svou činnost.
+**Předmět činnosti**:
+zakladatelé musí definovat předmět činnosti, tedy oblast, ve které bude právnická osoba působit.
+ **Statutární orgán**:
+je nutné určit statutární orgán (např. jednatelé, představenstvo), který bude zastupovat právnickou osobu navenek a řídit její činnost.
+**Základní kapitál**:
+u některých typů právnických osob, jako je společnost s ručením omezeným nebo akciová společnost, je třeba uvést výši základního kapitálu a způsob jeho splacení.
+##### Jednání právnické osoby
+**Nemá svéprávnost** - vždy za ni musí někdo právně jednat
+1) člen statutárního orgánu
+2) zaměstnanec nebo člen orgánu
+3) zmocněnec atd...
+##### Orgány právnických osob
+undividuální - jeden člověk
+kolektivní - 2 a více lidí
+**Usnášeníschopnost** - více jak 1/2 členů
+**Rozhodování** - více jak 1/2 zůčastněných členů
+per rollam - písemné/elektronické "zasedání"
+##### Člen orgánu
+musí být plně svéprávný
+funcki vykonává s **péčí řádného hospodáře** 
+1) s nezbytnou loajalitou
+2) s potřebnými znalostmi
+3) s pečlivostí
+funcki vykonává osobně (nebo pověří jiného člena orgánu)
+##### Statutární orgán
+Statutární orgán - výkonný orgán právnické osoby, kterému náleží působnost řídit její fungování v každodeních věceh
+**Generální zástupčí oprávnění** - členi statutárního orgánu mají oprávnění zastupovat právnickou osobu ve všech právnických a obchodních záležitostech
+§164 ObčZ - popisuje, co všecho člen statutárního orgánu může dělat
+člen statutárního orgánu má neomezené a neomezitelné (doslova nijak) oprávnění v rámci své kompetence
+##### Zánik právnické osoby
+1) vymazáním z veřejného rejstříku
+2) skončením likvidace
