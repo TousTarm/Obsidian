@@ -21,9 +21,9 @@ Základem marketingové koncepce je orientace na zákazníka. Předpokládá se,
 Firma se soustředí na levnou a efektivní výrobu, ale opomíjí potřeby zákazníků, kteří chtějí něco víc než jen základní produkt. Výsledkem mohou být produkty, které nikdo nechce
 #### Produktová krátkozrakost
 Snaha vyvinout technicky dokonalý produkt vede k přehlížení toho, co zákazníci opravdu chtějí
-#### Prodejní koncepce
+#### Prodejní krátkozrakost
 Důraz na přesvědčovací prodejní taktiky může vést k tomu, že zákazníci produkt koupí, ale nemají zájem se vracet. Jednorázové prodeje nejsou dlouhodobě efektivní
-#### Marketingová koncepce
+#### Marketingová krátkozrakost
 Firma se soustředí na aktuální potřeby zákazníků, ale může opomenout větší změny na trhu, což ztíží reakci na nové trendy, jako to bylo u Nokie s nástupem smartphonů (zákazníci neví, co chtějí)
 ## Tržní orientace
 **Reaktivní orientace**
@@ -61,7 +61,7 @@ socialbuble, která si navzájem předává názory / celebrita která rozšiřu
 ## Postoj
 **Kognitivní složka** - týká se myšlenek, přesvědčení a názorů
 zahrnuje - informace, názory, vnímání, racionální analýza
-**Emocionální složka** - týká se pocitl, emocionální reakce atd..
+**Emocionální složka** - týká se pocitů, emocionální reakce atd..
 zahrnuje - pocity a nálady, vztah k objektu, motivace
 **Behaviorální složka** - týká se konkrétních činů a reakcí na daný produkt
 zahrnuje - akce, chování, úmysl k nákupu, změnu chování

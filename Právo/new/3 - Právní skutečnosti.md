@@ -1,3 +1,4 @@
+# [Prezentace](2PR101_ZS2024_03_Pravni_skutecnosti.pdf)
 #### Právní skutečnosti
 **Právní skutečnost** - právně významné skutečnosti, které vyvolávají právní následky, tj. vznik, zánik nebe změnu práv a povinností
 **Právní následek** - vznik, změna nebo zánik práv a povinností
