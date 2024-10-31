@@ -107,5 +107,102 @@ soud k neplatnosti přihlédne i bez návrhu
 #### Relativně neúčinné jednání
 jednání je sice platné, ale (pouze) proti konkrétní osobě (věřiteli nebo v případě úpadku vůči majetkové podstatě) neúčinné
 rozhoduje soud na základě takzvané odpůrčí žaloby v případě, že jednání dlužníka zkracuje uspokojení vykonatelné pohledávky věřitele
+### Zastoupení
+**Jednání**
+	**příme** - jedná sama osoba
+	**nepřímé** - za osobu jedná její zástupce
+**Přímé jednání**
+pouze člověk - fyzická osoba
+právnická osoba sama jednat nemůže - nemá vlastní vůli - má vždy zástupce
+**Nepřímé jednání = zastoupení**
+rozsah oprávnění jednat za jiného - zástupčí oprávnění
+**zastoupený = zmocnitel <-> zástupce = zmocněnec**
+ kdo jiného zastupuje musí dát najevo, co ho k tomu opravňuje
+zastoupení - práva a povinosti pro zastoupeného
+pokud z jednání nevyplývá, že někdo jedná za jiného, platí že jedná vlastním jménem se všemi důsledky
+**Přímé zastoupení** - zástupce jedná za zastoupeného jménem zastoupeného
+**Nepřímé zastoupení** - zástupce jedná za zastoupeného svým jménem
+**Zastoupení**
+	**[[#Zákonné zastoupení]] (na základě zákona)** - rodičovské zastoupení
+	**[[#Smluvní zastoupení]]** - plná moc
+	**[[#Rozhodnutí soudu]]** - opatrovník pro nesvéprávnou osobu
+#### Zákonné zastoupení
+na základě zákona
+##### Zastoupení nezletilého dítěte
+**rodičem**
+	oba rodiče zastupují společně (ve shodě)
+	rozpor se řeší soudně
+**poručníkem**
+	nemá vyživovací povinnost
+	ve vážných věcech rozhodnutí schvaluje soud
+	(záník poručnictví - získáním rodičovství, dítě získá svéprávnost, dítě bude osvojeno (zaniká smrtí nebo rozhodnutím soudu))
+##### Vzájemné zastupování manželů
+**V běžných záležitostech**
+manžel zastupuje i druhého manžele
+**Ostatní záležitosti**
+dá-li druhý manžel souhlas k právnímu jednání
+**neplatí**:
+	jeden z manželů si nepřeje být zastupován (návrh na soud)
+	nesouhlas se zastupováním (sdělí ho manžel sám)
+	manželé nežijí ve společné domácnosti (faktická odluka)
+##### Zastoupení právníckých osob
+**členem statutárního orgánu**
+	generální zástupčí oprávnění - absolutní právo přávně zastupovat bez omezení
+**členem právnicé osoby, jejím zaměstnancem nebo členem jiného orgánu**
+	oprávnění zastupovat v rozsahu obvyklém vzhledem k jejich zařazení nebo funcki
+##### Zastoupení podnikatele
+1) **členem statutírního orgánu (pouze pro právnickou osobu)**
+2) **vedoucím odštěpného závodu (pobočky)** - právo zastupovat ve věcech "pobočky"
+3) **pověřenou osobou při provozování obchodního závodu** - osoba, která byla pověřena k řízení a zastupování v rámci běžného provozu
+4) **nepověřenou osobou, došlo-li k němu v provozovně podnikatele** - toto jednání může být považováno za zastoupení, pokud ostatní nemají důvod pochybovat o oprávnění této osoby
+#### Smluvní zastoupení
+1) **běžné smluivní zastoupení** - na základě smlouvy o zastoupení (fyzická i právnická)
+2) **prokura** - zvláštní případ smluvního zastoupení (pouze pro podnikatele zapsané v obchodním rejstříku)
+**smluvní zastoupení** - oboustranná dohoda zmocněnce a zmocnitele:
+1) kdo zastupuje koho
+2) jakým způsobem
+3) v jakém rozsahu
+4) po jakou dobu
+5) při jakých právních jednáních
+**plná moc** - jednostranné právní jednání zmocnitele, které zmocňuje a dokládá jeho oprávnění zastupovat
+#### Rozhodnutí soudu
+soud jmenuje osobě (opatrovanci) zástupce:
+1) je-li potřeba k ochraně jeho zájmů
+2) vyžaduje-li to veřejný zájem
+opatrovník je určen:
+1) osobám s omezenou svéprávností
+2) osobám s neznámým pobytem
+3) neznámý osobám zapojeným do určitého právního jednání
+4) osobám s obtéžemi při správě majetku nebo obhajobě práv
+**opatrovník právnické osoby** - je jemonván, když právnická osoba nemá nikoho, kdo by ji mohl zastupovat
+**kolizní opatrovník** - je jmenován, když hrozí střed zájmů mezi zastupovaným a zástupcem
+## Právní události
+**Právní skutečnosti** - právně významné skutečnosti, které vyvolávají právní následky (vznik, změnu nebo zánik práv a povinností)
+**[[#Druhy právních skutečností]]**
+**Právní události** - právně relativní události, které jsou nezávislé na lidské vůli a vyvolávají právní následky (právní následky určuje zákon nebo zúčastněné strany)
+### Doby a lhůty
+**Doba** - časový úsek, jehož uplynutím (a neobnovením) zaniká právo nebo povinnost
+**Lhůta** - časový úsek stanovený k uplatnění práva dané osoby u:
+1) druhé strany
+2) soudu
+3) jiného orgánu veřejné moci
+#### Lhůty v právním řádu
+**Promlčecí lhůty** 
+	uplynutím právo nezaniká, ale existuje v naturální podobě (existuje, ale nelze vymáhat)
+	pokud dlužník u soudu namétne, že právo je promlčené, soud ji uzná a dlužník **nemusí** plnit
+	pokud však dlužník přesto plní, nemá nárok na vrácení peněz
+**Prekultivní lhůty** 
+	uplynutám právo zaniká
+	dlužník nemusí tuto prekluzi u soudu namítat, soud k ní přihlédne z mocu úřední
+	pokud by dlužník plnil i po uplynutí prekulzivní lhůty, má nárok na vrácení plnění
+###### Promlčení
+**Majetková práva** - promlčují se všechna s vyjímkou případů stanovených zákonem
+**Jiná práva** - **NE**promlčují se, pokud tak zákon výslovně nestanoví
 
-# Skončil jsem na slidu 19
+**Subjektivní lhůty**
+**Objektivní lhůty**
+
+**Hmotněprávní lhůty**
+**Procesní lhůty**
+
+# Skončil jsem na slidu 45
