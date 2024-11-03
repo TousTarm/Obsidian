@@ -199,10 +199,49 @@ opatrovník je určen:
 **Majetková práva** - promlčují se všechna s vyjímkou případů stanovených zákonem
 **Jiná práva** - **NE**promlčují se, pokud tak zákon výslovně nestanoví
 
-**Subjektivní lhůty**
-**Objektivní lhůty**
+**Subjektivní lhůty** - začíná běžet od doby, kdy se o ni subjekt dozví
+**Objektivní lhůty** - začíná běžet od doby, kdy k rozhodné skutečnosti došlo
 
-**Hmotněprávní lhůty**
-**Procesní lhůty**
-
-# Skončil jsem na slidu 45
+**Hmotněprávní lhůty** - určují dobu, po kterou lze uplatnit právo nebo nárok, po uplynutí právo nezaniká, ale nelze vymáhat
+**Procesní lhůty** - určují dobu, pro provedení procesního úkonu v rámci soudního řízení (odvolací lhůta), po uplynutí zaniká možnost provést daný úkon
+#### Dělení práv
+**Osobní**
+	**osobní (statusová)** - určují právní postavení osoby (občanství, rodinný stav atd)
+	**osobnostní** - ochrana osobnosti (právo na život, čest, soukromí atd)
+**Majetková**
+	**závazková (obligační)** - práva a povinnosti mezi věřiteli a dlužníky (smlouvy, pujcky ...)
+	**dědická** - přechod majetku po smrti osoby (dědění na základě závěti)
+	**věcná** - vztah osoby k věci (vlastnické právo, zástavní právo)
+**Smíšená** - kombinují více práv (společné jmění manželů - osobní a věcná)
+### Pravidla pro počítání času
+**vznik/nabytí práva/povinnosti** - počátek dne (0:00hod)
+**zánik práva/povinnosti** - konec dne (24:00hod)
+**zánik práva jedné strany = vznik práva druhé strany** - konec dne (24:00hod)
+**konec lhůty/doby pro výkon práíva nebo splnění povinnosti** - lhůta končí obvykle v poslední den v obvykloui dobu (například provozní doba u podnikatelů, nejzaší čas je 24:00hod,+ vyjímky typu zvyklost, zavedená prace mezi stranami atd)
+#### Počítání dob a lhůt
+**jednotky menší než den (hodiny, minuty)**: Od okamžiku začátku do okamžiku konce. 
+**dny**: Lhůta začíná dnem následujícím po rozhodné skutečnosti.
+**týden, měsíc, rok**: Končí ve stejný den týdne nebo číslem, které odpovídá dni počátku.
+**pouze pro lhůty**: Pokud poslední den připadá na sobotu, neděli nebo svátek, končí nejbližší následující pracovní den.
+### Právní doměnky a fikce
+#### Právní doměnky
+zákon může vycházet z existence skutečnosti, která není právem prokázána.
+**právní domněnka**: zákon předpokládá existenci něčeho, co nemusí být prokázáno.
+**vyvratitelná domněnka**: důkaz opaku je připuštěn (např. „má se za to, že“).
+**nevyvratitelná domněnka**: důkaz opaku není připuštěn (např. „platí, že“).
+**příklady**:
+Není-li známo, kde člověk zemřel, **má se za to**, že se tak stalo tam, kde bylo nalezeno jeho tělo (vyvratitelná)
+Za místo, kde zemřel člověk prohlášený za mrtvého, **platí to**, kde naposledy pobýval živý (nevyvratitelná)
+<i>až se to budeš učit, najdi si příkladi fikce, právní doměnnky atd</i>
+#### Právní poměry
+**Právní poměry** - společenské vztahy mezi dvěma konkrétními právními subjekty
+##### Předpokladky vzniku právních poměrů
+1) **Platná právní a účinná právní norma**
+2) **Právní skutečnost** - musí nastat skutečnost, se kterou právní norma spojuje vznik, změnu nebo zánik právního poměru
+### [[#Právní skutečnosti]]
+**Právní jednání** - právní jednání (chování), jež je způsobilé vyvolat právní následky
+**Právní událost** - takové právně relevantní události, které jsou nezávislé na lidské vůli a vyvolávají právní následky
+### Prvky právních poměrů
+1) **Subjekty právního poměru** - osoby v právním smyslu
+2) **Obsah právního poměru** - souhrn práv a povinností vyplývajících daným subjektům z právního poměru
+3) **Objekt právního poměru** - to, čeho se týkají subjektivní práva a povinnosti právních subjektů daného právního poměru
