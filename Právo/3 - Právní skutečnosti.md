@@ -1,4 +1,3 @@
-# [Prezentace](2PR101_ZS2024_03_Pravni_skutecnosti.pdf)
 #### Právní skutečnosti
 **Právní skutečnost** - právně významné skutečnosti, které vyvolávají právní následky, tj. vznik, zánik nebe změnu práv a povinností
 **Právní následek** - vznik, změna nebo zánik práv a povinností
@@ -187,15 +186,15 @@ opatrovník je určen:
 2) soudu
 3) jiného orgánu veřejné moci
 #### Lhůty v právním řádu
-**Promlčecí lhůty** 
-	uplynutím právo nezaniká, ale existuje v naturální podobě (existuje, ale nelze vymáhat)
-	pokud dlužník u soudu namétne, že právo je promlčené, soud ji uzná a dlužník **nemusí** plnit
-	pokud však dlužník přesto plní, nemá nárok na vrácení peněz
-**Prekultivní lhůty** 
-	uplynutám právo zaniká
-	dlužník nemusí tuto prekluzi u soudu namítat, soud k ní přihlédne z mocu úřední
-	pokud by dlužník plnil i po uplynutí prekulzivní lhůty, má nárok na vrácení plnění
-###### Promlčení
+##### Promlčecí lhůty 
+uplynutím právo nezaniká, ale existuje v naturální podobě (existuje, ale nelze vymáhat)
+pokud dlužník u soudu namétne, že právo je promlčené, soud ji uzná a dlužník **nemusí** plnit
+pokud však dlužník přesto plní, nemá nárok na vrácení peněz
+##### Prekulzivní lhůty
+uplynutám právo zaniká
+dlužník nemusí tuto prekluzi u soudu namítat, soud k ní přihlédne z mocu úřední
+pokud by dlužník plnil i po uplynutí prekulzivní lhůty, má nárok na vrácení plnění
+##### Promlčení
 **Majetková práva** - promlčují se všechna s vyjímkou případů stanovených zákonem
 **Jiná práva** - **NE**promlčují se, pokud tak zákon výslovně nestanoví
 

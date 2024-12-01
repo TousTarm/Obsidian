@@ -1,4 +1,3 @@
-# [PREZENTACE](2PR101_ZS2024_01_Pravo_a_pravni_system.pdf)
 ## Právo a právní systém
 #### Objektivní právo (právo v objektivním smyslu)
 =  soubor obecně závazných pravidel chování stanovených nebo uznaných státem a státem vynutitelných

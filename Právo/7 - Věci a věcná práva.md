@@ -1,4 +1,3 @@
-# [Prezentace](2PR101_ZS2024_07_Veci_a_vecna_prava.pdf)
 ### Věci v právním smyslu
 **Věc** - vše, co je rozdílné od osoby, a slouží potřebě lidí
 1) užitečné

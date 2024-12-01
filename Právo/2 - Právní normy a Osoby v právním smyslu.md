@@ -1,4 +1,3 @@
-# [PREZENTACE](2PR101_ZS2024_02_Pravni_normy_Osoby.pdf)
 ## [Právní norma](1%20-%20Právo%20a%20právní%20systém.md#Právní%20norma)
 
 #### Struktura právní normy
@@ -43,9 +42,12 @@ i když ke vzniku nájmu došlo před tímto dnem
 "Právnická osoba je organizovaný útvar, o kterém zákon stanoví, že má právní osobnost, nebo jehož právní osobnost zákon uzná. Právnická osoba může bez zřetele na předmět své činnosti mít práva a povinnosti, které se slučují s její právní povahou."
 **od svého vzniku do svého zániku**
 ## Právní osobnost a svéprávnost
-**Právní osobnost** - způsobilost mít v mezích právního řádu práva a povinnosti -> být účasníkem právních poměrů
-**Svéprávnost** - způsobilost svým vlastním právním jednáním nabývat práv a zavazovat se k povinnostem -> způsobilost právně jednat
-**Plná svéprávnost se nabývá:**
+#### Právní osobnost
+způsobilost mít v mezích právního řádu práva a povinnosti -> být účasníkem právních poměrů
+#### Svéprávnost
+způsobilost svým vlastním právním jednáním nabývat práv a zavazovat se k povinnostem -> způsobilost právně jednat
+#### Plná svéprávnost
+nabývá se:
 1) zletilostí
 2) uzavření manželistvý
 3) přiznáním svéprávnosti
