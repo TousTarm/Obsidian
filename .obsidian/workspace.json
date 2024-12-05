@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d0e03e5e41585e18",
+        "id": "f726ac0fb35aae82",
         "type": "tabs",
         "children": [
           {
-            "id": "7b4406e0fe94dd85",
+            "id": "c4a5729ca519a16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Právo/5 - Subjekty podnikatelsé činosti.md",
+                "file": "Právo/5 - Subjekty podnikatelsé činosti I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Subjekty podnikatelsé činosti"
+              "title": "5 - Subjekty podnikatelsé činosti I"
             }
           }
         ]
@@ -160,6 +160,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ee14d06aa9ac95fa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -181,30 +191,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b4406e0fe94dd85",
+  "active": "c4a5729ca519a16e",
   "lastOpenFiles": [
     "Právo/10 - Obchodní závazky II.md",
-    "Právo/5 - Subjekty podnikatelsé činosti.md",
-    "Právo/Prezentace/2PR101_ZS2024_05_Subjekty_podnikatelske_cinnosti_I.pdf",
+    "Právo/9 - Obchodní závazky I.md",
+    "Právo/2 - Právní normy a Osoby v právním smyslu.md",
+    "Právo/3 - Právní skutečnosti.md",
     "Právo/4 - Podnikatel a podnikání.md",
+    "Právo/5 - Subjekty podnikatelsé činosti I.md",
+    "Právo/1 - Právo a právní systém.md",
+    "Pasted image 20241205145520.png",
+    "Pasted image 20241205145301.png",
+    "Právo/Prezentace/2PR101_ZS2024_05_Subjekty_podnikatelske_cinnosti_I.pdf",
     "ZZZ Obsidian/images/Pasted image 20241201183033.png",
     "ZZZ Obsidian/images/Pasted image 20241201181638.png",
     "ZZZ Obsidian/images/Pasted image 20241201181628.png",
     "ZZZ Obsidian/images/Pasted image 20241201181611.png",
-    "Právo/3 - Právní skutečnosti.md",
     "ZZZ Obsidian/images/Pasted image 20241201172240.png",
     "3.md",
-    "Právo/2 - Právní normy a Osoby v právním smyslu.md",
     "Právo/Prezentace/2PR101_ZS2024_04_Podnikatel_a_podnikani.pdf",
     "Právo/7 - Věci a věcná práva.md",
-    "Právo/9 - Obchodní závazky I.md",
     "ZZZ Obsidian/images/Pasted image 20241130210219.png",
     "temp.md",
     "Untitled",
     "README.md",
     "MedSync.md",
     "Právo/A Info.md",
-    "Právo/1 - Právo a právní systém.md",
     "Právo/Prezentace/2PR101_ZS2024_10_Obchodni_zavazky_II.pdf",
     "Právo/Prezentace/2PR101_ZS2024_09_Obchodni_zavazky_I.pdf",
     "Základy marketingu/Test.md",
@@ -225,8 +237,6 @@
     "UX design/A Info.md",
     "ZZZ Obsidian/Latex suite.md",
     "Právo/Prezentace/2PR101_ZS2024_07_Veci_a_vecna_prava.pdf",
-    "ZZZ Obsidian/images/Pasted image 20241028212436.png",
-    "Pasted image 20241028214637.png",
     "Základy marketingu/old/Untitled.md"
   ]
 }
